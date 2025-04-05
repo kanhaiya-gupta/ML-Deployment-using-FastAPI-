@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Machine%20Learning/pinns/FastAPI_PINN/mlruns/0/44bedc18ec204c0bbe923d800885229e/artifacts
+end_time: 1743058751081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44bedc18ec204c0bbe923d800885229e
+run_name: melodic-roo-204
+run_uuid: 44bedc18ec204c0bbe923d800885229e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743058707288
+status: 3
+tags: []
+user_id: kgupta

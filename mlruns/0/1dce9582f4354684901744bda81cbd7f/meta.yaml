@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Machine%20Learning/pinns/FastAPI_PINN/mlruns/0/1dce9582f4354684901744bda81cbd7f/artifacts
+end_time: 1743059195527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dce9582f4354684901744bda81cbd7f
+run_name: nimble-sponge-266
+run_uuid: 1dce9582f4354684901744bda81cbd7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743059163024
+status: 4
+tags: []
+user_id: kgupta

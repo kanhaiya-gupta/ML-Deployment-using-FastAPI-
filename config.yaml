@@ -1,0 +1,21 @@
+data:
+  oscillator_data: "/Users/kanha/pinns/Data/oscillator_data.csv"
+  oscillator_soln: "/Users/kanha/pinns/Data/oscillator_soln.csv"
+
+model:
+  n_input: 1
+  n_output: 1
+  n_nodes: 32
+  n_layers: 3
+  epochs: 15000
+  lr: 0.001
+  loss_phy_weight: 0.1
+  param_1: 1  # mass (m)
+  param_2: 4  # damping (mu)
+  param_3: 400  # spring constant (k)
+  lambda1: 0.1
+  lambda2: 0.0001
+
+training:
+  device: "cuda"  # or "cpu"
+  seed: 42

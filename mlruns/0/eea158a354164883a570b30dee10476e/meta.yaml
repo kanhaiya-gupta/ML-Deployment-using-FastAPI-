@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Machine%20Learning/pinns/FastAPI_PINN/mlruns/0/eea158a354164883a570b30dee10476e/artifacts
+end_time: 1743059314651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eea158a354164883a570b30dee10476e
+run_name: puzzled-stag-23
+run_uuid: eea158a354164883a570b30dee10476e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743059268708
+status: 3
+tags: []
+user_id: kgupta

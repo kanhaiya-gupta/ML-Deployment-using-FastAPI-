@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Machine%20Learning/pinns/FastAPI_PINN/mlruns/0/17bd037c632b455fb391ebd65add4a70/artifacts
+end_time: 1743059015596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17bd037c632b455fb391ebd65add4a70
+run_name: mercurial-fox-531
+run_uuid: 17bd037c632b455fb391ebd65add4a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743058970354
+status: 3
+tags: []
+user_id: kgupta

@@ -1,0 +1,22 @@
+artifact_path: pinn_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.8
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cpu
+mlflow_version: 2.21.2
+model_size_bytes: 14788
+model_uuid: 7e71d4195bb8465f9f312808e77a2ec5
+prompts: null
+run_id: 17bd037c632b455fb391ebd65add4a70
+utc_time_created: '2025-03-27 07:03:25.080630'
